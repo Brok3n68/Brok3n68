@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brok3n68&label=Profile%20views&color=0e75b6&style=flat" alt="brok3n68" /> </p>
 
-- 🌱 I’m currently learning **Computer Science and Engineering at Università degli Studi di Roma "La Sapienza"**
+- 🌱 I’m currently learning **C**
 
 - 📫 How to reach me **antoniomarsico2006@gmail.com**
 
